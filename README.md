@@ -167,3 +167,14 @@ plt.show()
 df.skew()  
 df  
 ```
+
+# OUPUT
+![tit1](https://user-images.githubusercontent.com/93427253/168627509-bf6191d3-91b7-4d38-8ffa-b44547098a46.png)
+![tit2](https://user-images.githubusercontent.com/93427253/168627554-341df590-25d0-4930-9dbd-7f48a509d86c.png)
+![tit3](https://user-images.githubusercontent.com/93427253/168627694-7dda1a99-38bb-4395-a86a-c714ae21156a.png)
+![tit4](https://user-images.githubusercontent.com/93427253/168627737-a956de0b-d261-4da4-a03d-c1ee003411ee.png)
+# 1. FUNCTION TRANSFORMATION:
+![tit5](https://user-images.githubusercontent.com/93427253/168628006-dc29c59b-9b69-42a6-b755-efa676572883.png)
+![tit6](https://user-images.githubusercontent.com/93427253/168628046-6713cb40-0da6-41f3-ae9c-5e12935fb6dd.png)
+![tit7](https://user-images.githubusercontent.com/93427253/168628092-9bd555a4-c0c8-469d-918e-68f574a63460.png)
+# 2. POWER TRANSFORMATION:

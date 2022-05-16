@@ -81,3 +81,11 @@ df.skew()
 df 
 ```
 # OUPUT
+![dtt1](https://user-images.githubusercontent.com/93427253/168624110-ef41e318-928f-42c0-bd41-d15687774d7f.png)
+![dtt2](https://user-images.githubusercontent.com/93427253/168624155-431682c8-65e4-4217-afa0-3cbb62086ad9.png)
+# 1. FUNCTION TRANSFORMATION:
+![dtt3](https://user-images.githubusercontent.com/93427253/168624214-6a6e6a42-1216-404d-a66f-472246b1d59a.png)
+![dtt4](https://user-images.githubusercontent.com/93427253/168624333-44d5e114-a008-4bc4-8f25-e052902d51ef.png)
+![dtt5](https://user-images.githubusercontent.com/93427253/168624377-8f7d94a0-9fed-4727-a2f8-c947378036d9.png)
+![dtt6](https://user-images.githubusercontent.com/93427253/168624277-c2552940-141e-426b-b887-a3df01825ac8.png)
+

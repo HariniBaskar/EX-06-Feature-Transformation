@@ -7,9 +7,9 @@ To Perform the various feature transformation techniques on a dataset and save t
 Feature Transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
 
 # Methods for Data Transformation
-FUNCTION TRANSFORMATION
-POWER TRANSFORMATION
-QUANTILE TRANSFORMATION
+1. FUNCTION TRANSFORMATION
+2. POWER TRANSFORMATION
+3. QUANTILE TRANSFORMATION
 
 # ALGORITHM
 ### STEP 1
@@ -22,6 +22,7 @@ Apply Feature Transformation techniques to all the feature of the data set
 Save the data to the file
 
 # CODE (Data_To_Transform.csv)
+```
 import pandas as pd  
 import numpy as np  
 import matplotlib.pyplot as plt  
@@ -78,4 +79,5 @@ plt.show()
 
 df.skew()  
 df 
+```
 # OUPUT

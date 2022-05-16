@@ -188,4 +188,10 @@ df
 ![tit14](https://user-images.githubusercontent.com/93427253/168629082-621b7cf8-aae3-421a-8d67-3e6d695b5f48.png)
 # FINAL ANALYSATION OF SKEWNESS:
 ![tit15](https://user-images.githubusercontent.com/93427253/168629109-ade01997-a830-4569-b979-1b9a0a4cd009.png)
-# FINAL ANALYSATION OF SKEWNESS:
+# POINTS:
+1. Log transformation is applicable only for right skewed data.
+2. Reciprocal transformation is not defined for zeroes.
+3. Square transformation is applicable for left skewed data.
+4. Quantile transforms are a technique for transforming numerical input or output variables to have a Gaussian or uniform probability distribution.
+# RESULT:
+Hence, Feature transformation techniques is been performed on given dataset and saved into a file successfully.

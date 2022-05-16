@@ -88,4 +88,15 @@ df
 ![dtt4](https://user-images.githubusercontent.com/93427253/168624333-44d5e114-a008-4bc4-8f25-e052902d51ef.png)
 ![dtt5](https://user-images.githubusercontent.com/93427253/168624377-8f7d94a0-9fed-4727-a2f8-c947378036d9.png)
 ![dtt6](https://user-images.githubusercontent.com/93427253/168624277-c2552940-141e-426b-b887-a3df01825ac8.png)
-
+# 2. POWER TRANSFORMATION:
+![dtt7](https://user-images.githubusercontent.com/93427253/168624960-85cb76bf-e674-488b-8c38-4e37ee02bd1e.png)
+![dtt8](https://user-images.githubusercontent.com/93427253/168624985-501a70bf-0388-42f6-8f50-1f0931c19c16.png)
+![dtt9](https://user-images.githubusercontent.com/93427253/168625028-e1e7e0ab-95c3-4470-8c97-554532e8d7aa.png)
+![dtt10](https://user-images.githubusercontent.com/93427253/168625075-4f990f91-9b89-476e-bd9f-070bcd353308.png)
+# 3. QUANTILE TRANSFORAMATION:
+![dtt11](https://user-images.githubusercontent.com/93427253/168625181-d00056e9-22db-4f72-bbc7-08a62693e337.png)
+![dtt12](https://user-images.githubusercontent.com/93427253/168625211-431e3955-affe-4145-bb87-81668df94417.png)
+![dtt13](https://user-images.githubusercontent.com/93427253/168625251-6a91e92e-62f8-4361-9886-df11a54836fe.png)
+![dtt14](https://user-images.githubusercontent.com/93427253/168625302-5ac49a55-8079-43f3-abfa-51136c9ac3a9.png)
+# FINAL ANALYSATION OF SKEWNESS:
+![dtt15](https://user-images.githubusercontent.com/93427253/168625467-10367ecc-235b-46cb-b5fa-e43716a21728.png)
